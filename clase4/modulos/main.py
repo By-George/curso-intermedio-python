@@ -2,4 +2,4 @@ import saludos
 
 saludos.saludo()
 
-saludos.nombre
+print(saludos.nombre)
