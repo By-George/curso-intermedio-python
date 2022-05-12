@@ -1,5 +1,11 @@
-import saludos
+#import saludos
 
-saludos.saludo()
+#saludos.saludo()
 
-print(saludos.nombre)
+#print(saludos.nombre)
+
+from carpetas import *
+
+#crear_carpetas("nueva",2)
+
+borrar_carpetas("nueva",2)
